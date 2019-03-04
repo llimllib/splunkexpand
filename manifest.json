@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Expand Splunk",
+  "version": "1.0",
+  "description": "Expand all expandables in splunk",
+  "gecko": {
+    "id": "bill@billmill.org"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://splunk.aws.healthcare.gov/*"],
+      "js": ["expand.js"]
+    }
+  ]
+
+}
