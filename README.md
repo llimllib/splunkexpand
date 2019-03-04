@@ -19,3 +19,7 @@ Here's how to install the extension:
 * Click on the gear icon, select "Install Add-on from file"
 * select expand_splunk-1.0-fx.xpi from this repository
 * hit "add" on the dialog that pops up
+
+## Safari
+
+* I dunno try mailing apple a check and a nice letter or something
